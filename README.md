@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shubham Patel 
+- 👋 Hi, I’m Shubham
 - 👀 I’m interested in Automation Testing
 - 🌱 I’m currently learning REST API Testing
 - 💞️ I’m looking to collaborate on any issues related to software testing
