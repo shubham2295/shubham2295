@@ -26,4 +26,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham2295&" alt="shubham2295" /></p>
 <hr>
 <h3 align="left">Watch my contribution graph eaten by the snake🐍</h3>
-![snake gif](https://github.com/shubham2295/shubham2295/blob/output/github-contribution-grid-snake.gif)
+<p><img align="left" src="https://github.com/shubham2295/shubham2295/blob/output/github-contribution-grid-snake.gif" alt="snake-gif"/></p>
