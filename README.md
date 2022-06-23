@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **new things everyday**
 
-- 👨‍💻 All of my projects are available at [https://shubhampatel.netlify.app/](https://shubhampatel.netlify.app/)
+- 👨‍💻 All of my projects are available [here](https://shubhampatel.netlify.app/)
 
 - 💬 Ask me about **JavaScript, React.js, Node.js**
 
